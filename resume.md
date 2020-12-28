@@ -4,7 +4,7 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 - <olgaabirhaim@gmail.com>
-- 0507802936
+- 050-7802936
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
