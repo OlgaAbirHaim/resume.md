@@ -29,7 +29,7 @@ hand -->
 
 ## Awards
 
-### <span>Awarded a Certificate of Excellence for academic accomplishments by the dean of Computer Science faculty</span>
+### <span>Awarded a Certificate of Excellence for academic accomplishments by the dean of Computer Science faculty - 2016</span>
 
 ## Skills
 
