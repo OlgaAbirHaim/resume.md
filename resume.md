@@ -5,7 +5,6 @@
 line. It is intended to be used for contact details -->
 - <olgaabirhaim@gmail.com>
 - 0507802936
-- [github.com/OlgaAbirHaim](https://github.com/OlgaAbirHaim)
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
@@ -15,12 +14,12 @@ Seeking a challenging position in Front-end software development.
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Fullstack Software developer, Softimize </span> <span>2018 -- Present</span>
+### <span>Fullstack Software Developer, Softimize </span> <span>2018 -- Present</span>
  - Fullstack development of a webapp that provides a pricing and proposal optimization solution for freight industry.
- - Backend Development of a cloud-based infrastructure that makes it easy to connect medical IOT devices to the cloud
+ - Backend development of a cloud-based infrastructure that enables connection of medical IOT devices to the cloud.
 
 ### <span>System Administrator, IDF</span> <span>2013 -- 2015</span>
- - Maintenance and integration of Microsoft systems.
+ - Maintenance ,integration and configuration of Microsoft services like Lync, Exchange, Active Directory, Group Policy.
  - Script development using PowerShell.
  
 ## Education
@@ -29,7 +28,7 @@ hand -->
 
 ## Awards
 
-### <span>Awarded a Certificate of Excellence for academic accomplishments by the dean of Computer Science faculty - 2016</span>
+### <span>Awarded a Certificate of Excellence for academic accomplishments by the dean of Computer Science faculty -- 2016</span>
 
 ## Skills
 
