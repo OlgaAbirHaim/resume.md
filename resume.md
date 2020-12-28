@@ -9,7 +9,6 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Highly motivated, serious, hardworking, creative, organized and independent individual.
 Seeking a challenging position in Front-end software development.
 
 ## Education
