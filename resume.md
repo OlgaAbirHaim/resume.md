@@ -19,7 +19,7 @@ hand -->
  - Backend development of a cloud-based infrastructure that enables connection of medical IOT devices to the cloud.
 
 ### <span>System Administrator, IDF</span> <span>2013 -- 2015</span>
- - Maintenance ,integration and configuration of Microsoft services like Lync, Exchange, Active Directory, Group Policy.
+ - Maintenance ,integration and configuration of Microsoft services.
  - Script development using PowerShell.
  
 ## Education
