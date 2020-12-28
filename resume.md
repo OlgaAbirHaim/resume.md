@@ -13,7 +13,7 @@ Seeking a challenging position in Front-end software development.
 
 ## Education
 
-### <span>BSc in Computer Science, The Academic College of Tel Aviv - Yaffo</span> <span>2015-2018</span>
+### <span>BSc in Computer Science, The Academic College of Tel Aviv - Yaffo</span> <span>2015 -- 2018</span>
 
 ## Awards
 
@@ -23,11 +23,11 @@ Seeking a challenging position in Front-end software development.
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Software developer, Softimize </span> <span>July 2018 -- Present</span>
+### <span>Software developer, Softimize </span> <span>2018 -- Present</span>
  - Fullstack developer for Stargo's web app
  - BE core developer for Bio-T Medical product
 
-### <span>System Administrator, IDF</span> <span>2013-2015</span>
+### <span>System Administrator, IDF</span> <span>2013 -- 2015</span>
  - Maintenance and integration of Microsoft systems.
  - Script development using PowerShell.
 
