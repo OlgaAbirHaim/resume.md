@@ -11,14 +11,6 @@ line. It is intended to be used for contact details -->
 is intended to be used for a short summary. -->
 Seeking a challenging position in Front-end software development.
 
-## Education
-
-### <span>BSc in Computer Science, The Academic College of Tel Aviv - Yaffo</span> <span>2015 -- 2018</span>
-
-## Awards
-
-### <span>Awarded a Certificate of Excellence for academic accomplishments by the dean of Computer Science faculty</span>
-
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
@@ -30,6 +22,14 @@ hand -->
 ### <span>System Administrator, IDF</span> <span>2013 -- 2015</span>
  - Maintenance and integration of Microsoft systems.
  - Script development using PowerShell.
+ 
+## Education
+
+### <span>BSc in Computer Science, The Academic College of Tel Aviv - Yaffo</span> <span>2015 -- 2018</span>
+
+## Awards
+
+### <span>Awarded a Certificate of Excellence for academic accomplishments by the dean of Computer Science faculty</span>
 
 ## Skills
 
