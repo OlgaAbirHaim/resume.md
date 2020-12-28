@@ -15,9 +15,9 @@ Seeking a challenging position in Front-end software development.
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Software developer, Softimize </span> <span>2018 -- Present</span>
- - Fullstack developer for Stargo's web app
- - BE core developer for Bio-T Medical product
+### <span>Fullstack Software developer, Softimize </span> <span>2018 -- Present</span>
+ - Fullstack development of a webapp that provides a pricing and proposal optimization solution for freight industry.
+ - Backend Development of a cloud-based infrastructure that makes it easy to connect medical IOT devices to the cloud
 
 ### <span>System Administrator, IDF</span> <span>2013 -- 2015</span>
  - Maintenance and integration of Microsoft systems.
@@ -33,10 +33,11 @@ hand -->
 
 ## Skills
 
- - High proficiency with React js, Redux, HTML5, CSS
- - Good expirience with AWS: ECR, EC2, SQS, SNS, S3, API gateway, Lambdas
- - expirience with Java & Spring Boot, Node, MySQL
- - Working with Git.
- - Working in Agile development teams.
+ - High proficiency with React, Redux, HTML5, CSS, Styled-Components, testcafe E2E webapp testing
+ - Expirienced with AWS: ECR, EC2, RDS, SQS, SNS, S3, API gateway, Lambdas
+ - Expirienced with Java & Spring Boot, Node.js, MySQL
+ - Expirienced with Git.
+ - Familiar with Docker.
+ - Expirienced with Agile methodologies.
  - Hebrew – native, Russian – native, English – fluent.
  	
