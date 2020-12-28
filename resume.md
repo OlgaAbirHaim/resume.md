@@ -15,11 +15,11 @@ Seeking a challenging position in Frontend software development.
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 ### <span>Fullstack Software Developer, Softimize </span> <span>2018 -- Present</span>
- - Fullstack development of a webapp that provides a pricing and proposal optimization solution for freight industry.
+ - Fullstack development of a web application that provides a pricing and proposal optimization solution for freight industry.
  - Backend development of a cloud-based infrastructure that enables connection of medical IOT devices to the cloud.
 
 ### <span>System Administrator, IDF</span> <span>2013 -- 2015</span>
- - Maintenance ,integration and configuration of Microsoft services.
+ - Maintenance, integration and configuration of Microsoft services.
  - PowerShell script development.
  
 ## Education
