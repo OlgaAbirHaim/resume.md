@@ -20,7 +20,7 @@ hand -->
 
 ### <span>System Administrator, IDF</span> <span>2013 -- 2015</span>
  - Maintenance ,integration and configuration of Microsoft services.
- - PowerShell Script development.
+ - PowerShell script development.
  
 ## Education
 
